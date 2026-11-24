@@ -1,0 +1,1 @@
+Mercury retrogrades into your context window this week: a user pastes the same bug report three times, your evals pass anyway, and your flagship sibling takes the credit. Blame the tokenizer.
